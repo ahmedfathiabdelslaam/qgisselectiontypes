@@ -1,1 +1,1 @@
-# qgisselectiontypes
+# qgis selection types
